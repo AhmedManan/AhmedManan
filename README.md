@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Web automation with Selenium & Python**
 
-- 🌱 I’m currently learning **Bug Reporting using test management tools**
+- 🌱 I’m currently learning **Bug Reporting Using Test Management Tools**
 
 - 🤝 I’m looking for help with **Web automation, Manual testing, API testing & Performance testing**
 
