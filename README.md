@@ -13,8 +13,6 @@
 
 - 🤝 I’m looking for help with **Web automation, Manual testing, API testing & Performance testing**
 
-- 👨‍💻 All of my projects are available at [https://ahmedmanan.com/projects](https://ahmedmanan.com/projects)
-
 - 📝 I regularly write articles on [https://ahmedmanan.com/blog/](https://ahmedmanan.com/blog/)
 
 - 💬 Ask me about **Web automation, Manual testing, API testing & Performance testing**
