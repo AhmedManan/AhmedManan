@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/ahmed_mnn" target="blank"><img src="https://img.shields.io/twitter/follow/ahmed_mnn?logo=twitter&style=for-the-badge" alt="ahmed_mnn" /></a> </p>
 
-- 🔭 I’m currently working on **Web automation with Selenium & Python**
+- 🔭 I’m currently working on **Web UI testing with Selenium & Python**
 
-- 🌱 I’m currently learning **Bug Reporting Using Test Management Tools**
+- 🌱 I’m currently learning **Performance Testing with JMeter**
 
-- 🤝 I’m looking for help with **Web automation, Manual testing, API testing & Performance testing**
+- 🤝 I’m looking for help with **Web automation, Automation Testing**
 
 - 📝 I regularly write articles on [https://ahmedmanan.com/blog/](https://ahmedmanan.com/blog/)
 
