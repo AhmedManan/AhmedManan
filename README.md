@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Manan Ahmed Broti</h1>
-<h3 align="center">A passionate Software Quality Assurance Enthusiast</h3>
+<h3 align="center">A Passionate Software Quality Assurance Enthusiast, Experienced Web Developer & CMS Expert</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmanan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmanan" /> </p>
 
