@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmanan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmanan" /> </p>
 
-## 👤 About Me
+### 👤 About Me
 As I always had a passion for computers, software and games since childhood, I started with an educational background in Software Engineering from American International University‑Bangladesh (AIUB). Being a man focused on elevating entrepreneurship & skill development, I have a strong passion to learn and grow from the environment around me. I also consider myself a person of books, music & philosophy. I have developed strong emotional intelligence of being not judgemental, a free thinker, open‑minded & a believer. Good at professional communication & trained in emotional intelligence to bring a positive outcome in negative situations.
 
 ### My Latest Posts / Articles 
