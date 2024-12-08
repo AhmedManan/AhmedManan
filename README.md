@@ -8,11 +8,11 @@ As I always had a passion for computers, software and games since childhood, I s
 
 ### My Latest Posts / Articles 
 <!-- BLOG-POST-LIST:START -->
-- [Basics of  Client, Server &amp; Web Services](https://ahmedmanan.com/blog/basics-of-client-server-web-services/)
-- [HTTP Fundamentals](https://ahmedmanan.com/blog/http-fundamentals/)
-- [Understanding API Concepts](https://ahmedmanan.com/blog/understanding-api-concepts/)
-- [Selenium Cheatsheet &lpar;Java&rpar;](https://ahmedmanan.com/blog/selenium-cheatsheet-java/)
-- [What Are The Software Quality Attributes?](https://ahmedmanan.com/blog/what-are-the-software-quality-attributes/)
+- [Basics of  Client, Server &amp; Web Services](https://ahmedmanan.com/basics-of-client-server-web-services/)
+- [HTTP Fundamentals](https://ahmedmanan.com/http-fundamentals/)
+- [Understanding API Concepts](https://ahmedmanan.com/understanding-api-concepts/)
+- [Selenium Cheatsheet &lpar;Java&rpar;](https://ahmedmanan.com/selenium-cheatsheet-java/)
+- [What Are The Software Quality Attributes?](https://ahmedmanan.com/what-are-the-software-quality-attributes/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
