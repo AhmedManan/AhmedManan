@@ -16,6 +16,10 @@ As I always had a passion for computers, software and games since childhood, I s
 
 ### 🎥 Latest YouTube Videos
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [User Acceptance Testing | Software Quality Assurance | Manan Academy](https://www.youtube.com/shorts/_hWXJyD0ujA)
+- [How To Make Sticky Navigation Menu For WordPress Website Without Using Any Plugins For Beginners](https://www.youtube.com/watch?v=PNabpT2AT0k)
+- [Software Quality  Attributes | Software Quality Assurance Concepts Full Course](https://www.youtube.com/watch?v=rhJdDRTf3Uk)
+- [What Is Software Quality Assurance? | Software Quality Assurance Concepts Full Course](https://www.youtube.com/watch?v=vfBITMyRu_w)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 
