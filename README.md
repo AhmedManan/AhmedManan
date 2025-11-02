@@ -7,7 +7,12 @@
 As I always had a passion for computers, software and games since childhood, I started with an educational background in Software Engineering from American International University‑Bangladesh (AIUB). Being a man focused on elevating entrepreneurship & skill development, I have a strong passion to learn and grow from the environment around me. I also consider myself a person of books, music & philosophy. I have developed strong emotional intelligence of being not judgemental, a free thinker, open‑minded & a believer. Good at professional communication & trained in emotional intelligence to bring a positive outcome in negative situations.
 
 ### 📝 My Latest Blog Posts
-<!-- BLOG-POST-LIST:START --><td align='center'><a href='${url}' target='_blank'><img src='https://img.youtube.com/vi/${videoId}/hqdefault.jpg' width='240' height='135'/><br/><sub>${title}</sub></a></td><td align='center'><a href='${url}' target='_blank'><img src='https://img.youtube.com/vi/${videoId}/hqdefault.jpg' width='240' height='135'/><br/><sub>${title}</sub></a></td><td align='center'><a href='${url}' target='_blank'><img src='https://img.youtube.com/vi/${videoId}/hqdefault.jpg' width='240' height='135'/><br/><sub>${title}</sub></a></td><td align='center'><a href='${url}' target='_blank'><img src='https://img.youtube.com/vi/${videoId}/hqdefault.jpg' width='240' height='135'/><br/><sub>${title}</sub></a></td><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [What is ERP Software?](https://mananacademy.com/what-is-erp-software/)
+- [Complete Python Cheat Sheet](https://mananacademy.com/complete-python-cheat-sheet/)
+- [What is software sanity testing? Why &amp; when to apply it?](https://mananacademy.com/what-is-software-sanity-testing-why-when-to-apply-it/)
+- [What is software smoke testing? Why &amp; when to apply it?](https://mananacademy.com/what-is-software-smoke-testing-why-when-to-apply-it/)
+<!-- BLOG-POST-LIST:END -->
 
 ### 🎥 My Latest YouTube Videos
 <table>
