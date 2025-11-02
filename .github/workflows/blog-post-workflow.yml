@@ -1,0 +1,43 @@
+# name: Latest blog post workflow
+# on:
+#   schedule:
+#     # Runs every Sunday at midnight
+#     - cron: '0 0 * * 0'
+# jobs:
+#   update-readme-with-blog:
+#     name: Update this repo's README with latest blog posts
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses: gautamkrishnar/blog-post-workflow@master
+#         with:
+#           feed_list: 'https://mananacademy.com/feed/'
+
+name: Latest blog & YouTube workflow
+on:
+  schedule:
+    # Runs every Sunday at midnight
+    - cron: '0 0 * * 0'
+  workflow_dispatch: # allows manual trigger
+jobs:
+  update-readme:
+    name: Update README with latest blog posts and videos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      # 1️⃣ Update with blog posts
+      - name: Update README with latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://mananacademy.com/feed/"
+          comment_tag_name: "BLOG-POST-LIST" # default, optional
+          max_post_count: 5 # optional: number of posts to show
+
+      # 2️⃣ Update with YouTube videos
+      - name: Update README with latest YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCvRyt8shUdK-soy-UgM1vZA"
+          comment_tag_name: "YOUTUBE-VIDEO-LIST"
+          max_post_count: 5 # optional
