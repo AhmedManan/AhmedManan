@@ -6,14 +6,18 @@
 ### 👤 About Me
 As I always had a passion for computers, software and games since childhood, I started with an educational background in Software Engineering from American International University‑Bangladesh (AIUB). Being a man focused on elevating entrepreneurship & skill development, I have a strong passion to learn and grow from the environment around me. I also consider myself a person of books, music & philosophy. I have developed strong emotional intelligence of being not judgemental, a free thinker, open‑minded & a believer. Good at professional communication & trained in emotional intelligence to bring a positive outcome in negative situations.
 
-### My Latest Posts / Articles 
+### 📝 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Basics of  Client, Server &amp; Web Services](https://ahmedmanan.com/basics-of-client-server-web-services/)
-- [HTTP Fundamentals](https://ahmedmanan.com/http-fundamentals/)
-- [Understanding API Concepts](https://ahmedmanan.com/understanding-api-concepts/)
-- [Selenium Cheatsheet &lpar;Java&rpar;](https://ahmedmanan.com/selenium-cheatsheet-java/)
-- [What Are The Software Quality Attributes?](https://ahmedmanan.com/what-are-the-software-quality-attributes/)
 <!-- BLOG-POST-LIST:END -->
+
+### 🎥 My Latest YouTube Videos
+<table>
+<tr>
+<!-- YOUTUBE-VIDEOS:START -->
+<!-- YOUTUBE-VIDEOS:END -->
+</tr>
+</table>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
