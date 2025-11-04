@@ -1,11 +1,15 @@
-<h1 align="center">Hello 👋, I'm Manan Ahmed Broti</h1>
-<h3 align="center">A Passionate Software Quality Assurance Enthusiast, Experienced Web Developer & CMS Expert</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmanan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmanan" /> </p>
+<h1 align="center">Hello 👋, I'm Manan Ahmed Broti</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00008B&center=true&vCenter=true&width=480&lines=Software+Quality+Assurance+Enthusiast;Exploring+Python,+Automation+and+AI;Exploring+HarmonyOS+App+Development;Capturing+Emotion+Through+photography" alt="Typing SVG" />
+</p>
+
+---
 
 ### 👤 About Me
 As I always had a passion for computers, software and games since childhood, I started with an educational background in Software Engineering from American International University‑Bangladesh (AIUB). Being a man focused on elevating entrepreneurship & skill development, I have a strong passion to learn and grow from the environment around me. I also consider myself a person of books, music & philosophy. I have developed strong emotional intelligence of being not judgemental, a free thinker, open‑minded & a believer. Good at professional communication & trained in emotional intelligence to bring a positive outcome in negative situations.
 
+---
 ### 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [What is ERP Software?](https://mananacademy.com/what-is-erp-software/)
@@ -22,11 +26,11 @@ As I always had a passion for computers, software and games since childhood, I s
 - [What Is Software Quality Assurance? | Software Quality Assurance Concepts Full Course](https://www.youtube.com/watch?v=vfBITMyRu_w)
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
+---
 ### 🌐 Connect with me
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MrAhmedManan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedmanan/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/broti.manan)
 [![Website](https://img.shields.io/badge/Website-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mananacademy.com/)
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmanan&" alt="ahmedmanan" /></p>
