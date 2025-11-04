@@ -12,6 +12,7 @@ As I always had a passion for computers, software and games since childhood, I s
 ---
 ### 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [API &amp; API Testing Basics](https://mananacademy.com/api-api-testing-basics/)
 - [What is ERP Software?](https://mananacademy.com/what-is-erp-software/)
 - [Complete Python Cheat Sheet](https://mananacademy.com/complete-python-cheat-sheet/)
 - [What is software sanity testing? Why &amp; when to apply it?](https://mananacademy.com/what-is-software-sanity-testing-why-when-to-apply-it/)
