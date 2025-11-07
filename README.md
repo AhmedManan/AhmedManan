@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmanan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmanan" /> </p>
 <h1 align="center">Hello 👋, I'm Manan Ahmed Broti</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lexend+Deca&pause=1000&color=7B68EE&center=true&vCenter=true&width=480&lines=Software+Quality+Assurance+Enthusiast;Exploring+Python,+Automation+and+AI;Exploring+HarmonyOS+App+Development;Capturing+Emotion+Through+photography" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lexend+Deca&pause=1000&color=7B68EE&center=true&vCenter=true&width=480&lines=Expertise+Software+Quality+Assurance;Exploring+Python,+Automation+and+AI;Capturing+Emotion+Through+photography" alt="Typing SVG" />
 </p>
 
 ---
