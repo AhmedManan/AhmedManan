@@ -12,11 +12,11 @@ As I always had a passion for computers, software and games since childhood, I s
 ---
 ### 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Selenium Page Object Model Framework In Python](https://mananacademy.com/selenium-page-object-model-framework-in-python/)
+- [Syntax Comparison: Python Vs Dart](https://mananacademy.com/syntax-comparison-python-vs-dart/)
 - [API &amp; API Testing Basics](https://mananacademy.com/api-api-testing-basics/)
 - [What is ERP Software?](https://mananacademy.com/what-is-erp-software/)
 - [Complete Python Cheat Sheet](https://mananacademy.com/complete-python-cheat-sheet/)
-- [What is software sanity testing? Why &amp; when to apply it?](https://mananacademy.com/what-is-software-sanity-testing-why-when-to-apply-it/)
-- [What is software smoke testing? Why &amp; when to apply it?](https://mananacademy.com/what-is-software-smoke-testing-why-when-to-apply-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎥 Latest YouTube Videos
