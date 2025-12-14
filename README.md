@@ -12,11 +12,11 @@ As I always had a passion for computers, software and games since childhood, I s
 ---
 ### 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Complete JavaScript Cheat sheet](https://mananacademy.com/complete-javascript-cheat-sheet/)
+- [Git &amp; Version Control](https://mananacademy.com/git-version-control/)
 - [Syntax Comparison: Python Vs Dart](https://mananacademy.com/syntax-comparison-python-vs-dart/)
 - [Complete Dart Cheat Sheet](https://mananacademy.com/complete-dart-cheat-sheet/)
 - [API &amp; API Testing Basics](https://mananacademy.com/api-api-testing-basics/)
-- [What is ERP Software?](https://mananacademy.com/what-is-erp-software/)
-- [Complete Python Cheat Sheet](https://mananacademy.com/complete-python-cheat-sheet/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎥 Latest YouTube Videos
