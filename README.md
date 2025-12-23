@@ -12,11 +12,11 @@ As I always had a passion for computers, software and games since childhood, I s
 ---
 ### 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Run automation tests in GitHub CI/CD: Playwright &amp; Python](https://mananacademy.com/run-automation-tests-in-github-ci-cd-playwright-python/)
-- [Run automation tests in GitHub CI/CD: Playwright &amp; JavaScript](https://mananacademy.com/run-automation-tests-in-github-ci-cd-playwright-javascript/)
-- [Complete JavaScript Cheat sheet](https://mananacademy.com/complete-javascript-cheat-sheet/)
-- [Git &amp; Version Control](https://mananacademy.com/git-version-control/)
-- [Syntax Comparison: Python Vs Dart](https://mananacademy.com/syntax-comparison-python-vs-dart/)
+- [Run automation tests in GitHub CI/CD: Playwright &amp; Python](https://ahmedmanan.com/run-automation-tests-in-github-ci-cd-playwright-python/)
+- [Run automation tests in GitHub CI/CD: Playwright &amp; JavaScript](https://ahmedmanan.com/run-automation-tests-in-github-ci-cd-playwright-javascript/)
+- [Complete JavaScript Cheat sheet](https://ahmedmanan.com/complete-javascript-cheat-sheet/)
+- [Git &amp; Version Control](https://ahmedmanan.com/git-version-control/)
+- [Syntax Comparison: Python Vs Dart](https://ahmedmanan.com/syntax-comparison-python-vs-dart/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎥 Latest YouTube Videos
