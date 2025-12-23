@@ -30,7 +30,7 @@ jobs:
       - name: Update README with latest blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://mananacademy.com/feed/"
+          feed_list: "https://ahmedmanan.com/feed/"
           comment_tag_name: "BLOG-POST-LIST" # default, optional
           max_post_count: 5 # optional: number of posts to show
 
