@@ -12,7 +12,11 @@ As I always had a passion for computers, software and games since childhood, I s
 ---
 ### 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello world!](https://ahmedmanan.com/hello-world/)
+- [Bug vs. Defect Easily Explained](https://ahmedmanan.com/bug-vs-defect-easily-explained/)
+- [Run automation tests in GitHub CI/CD: Playwright &amp; Python](https://ahmedmanan.com/run-automation-tests-in-github-ci-cd-playwright-python/)
+- [Run automation tests in GitHub CI/CD: Playwright &amp; JavaScript](https://ahmedmanan.com/run-automation-tests-in-github-ci-cd-playwright-javascript/)
+- [Complete JavaScript Cheat sheet](https://ahmedmanan.com/complete-javascript-cheat-sheet/)
+- [Git &amp; Version Control](https://ahmedmanan.com/git-version-control/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎥 Latest YouTube Videos
